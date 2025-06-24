@@ -72,7 +72,7 @@ Dependencies:pip install -r requirements.txt
 **Installation**
 
 Clone the Repository:
-git clone https://github.com/deep-khimani/Fake-News-Detection.git
+git clone https://github.com/deep-khimani/Real-Time-Fake-News-Detection-with-NLP-and-Ensemble-ML.git
 
 cd Fake-News-Detection
 
