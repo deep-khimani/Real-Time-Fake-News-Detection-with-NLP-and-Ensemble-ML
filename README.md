@@ -43,22 +43,6 @@ XGBoost: 86% accuracy
 **Novelty Scoring:** Identifies unusual content using rare term frequencies and Real-time news fetching.
 Output: Generates fake_news_prediction.csv with columns: Title, Prediction, Confidence (%), Novelty Score, Source.
 
-**Project Structure**
-
-Fake-News-Detection/
-├── .env                          # Environment file for NewsAPI key (not committed)
-
-├── Fake_News_Detection.ipynb     # Jupyter notebook with code (preprocessing, training, prediction)
-
-├── fake_news_prediction.csv      # Output file with predictions
-
-├── requirements.txt              # Python dependencies
-
-├── WELFake_Dataset.csv           # Training dataset
-
-├── .gitignore                    # Excludes sensitive files
-
-├── README.md                     # This file
 
 **Prerequisites**
 
@@ -66,7 +50,6 @@ Python 3.8+
 NewsAPI Key: Obtain a free API key from https://newsapi.org/.
 Jupyter Notebook: To run Fake_News_Detection.ipynb.
 Dependencies:pip install -r requirements.txt
-
 
 
 **Installation**
