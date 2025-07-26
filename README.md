@@ -1,5 +1,8 @@
 # Real-Time Fake News Detection with NLP and Ensemble ML
 
+<img width="1910" height="927" alt="Screenshot 2025-07-26 202327" src="https://github.com/user-attachments/assets/33856042-151f-4bba-91b4-f2df2c4475b1" />
+
+
 ## Overview
 
 This project implements a Real-Time Fake News Detection system using state-of-the-art Natural Language Processing (NLP) and ensemble Machine Learning (ML) methods. The system classifies news articles as fake or real and can analyze both historical and live news via NewsAPI. It was developed predominantly without the use of advanced AI assistants, emphasizing hands-on expertise in tackling misinformation.
