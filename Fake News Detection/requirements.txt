@@ -1,3 +1,4 @@
+streamlit
 requests
 nltk
 scikit-learn
@@ -6,4 +7,3 @@ pandas
 numpy
 python-dotenv
 joblib
-streamlit
