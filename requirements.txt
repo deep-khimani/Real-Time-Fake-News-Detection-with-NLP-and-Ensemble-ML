@@ -1,0 +1,9 @@
+streamlit
+requests
+nltk
+scikit-learn
+xgboost
+pandas
+numpy
+python-dotenv
+joblib
