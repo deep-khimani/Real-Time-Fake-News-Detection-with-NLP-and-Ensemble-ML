@@ -1,5 +1,7 @@
 # Real-Time Fake News Detection with NLP and Ensemble ML
 
+<img width="1919" height="927" alt="Screenshot 2025-07-26 202301" src="https://github.com/user-attachments/assets/c8ea5ef6-175e-4ddb-8103-dd910c7b785a" />
+
 <img width="1910" height="927" alt="Screenshot 2025-07-26 202327" src="https://github.com/user-attachments/assets/33856042-151f-4bba-91b4-f2df2c4475b1" />
 
 
